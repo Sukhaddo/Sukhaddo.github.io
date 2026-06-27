@@ -1,10 +1,31 @@
-# Sukhaddo.github.io
-Good # সুখাদ্য (Sukhaddo)
 
-স্বাদে, গুণে ও যত্নে—প্রতিটি আয়োজনে সুখাদ্য।
-
-🌐 Website: https://sukhaddo.github.io
-📞 Phone: +880 1953-775981
-💳 bKash: 01611059190
-📧 Email: araf4syl@gmail.com
-📘 Facebook: https://facebook.com/Sukhaddo 
+Sukhaddo/
+│
+├── index.html
+├── menu.html
+├── gallery.html
+├── order.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── morog-polao.jpg
+│   ├── beef-tehari.jpg
+│   ├── chicken-tehari.jpg
+│   ├── ilish-polao.jpg
+│   ├── chicken-khichuri.jpg
+│   ├── sobji-khichuri.jpg
+│   ├── porota.jpg
+│   ├── mishti-porota.jpg
+│   ├── alu-singara.jpg
+│   └── chicken-singara.jpg
+│
+└── admin/
+    └── dash
