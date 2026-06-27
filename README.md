@@ -29,3 +29,12 @@ Sukhaddo/
 │
 └── admin/
     └── dash
+<section class="hero">
+  <div class="hero-content">
+    <h1>🍛 সুখাদ্য</h1>
+    <p>স্বাদে, গুণে ও যত্নে—প্রতিটি আয়োজনে সুখাদ্য</p>
+
+    <a href="menu.html" class="btn">🍽️ মেনু দেখুন</a>
+    <a href="order.html" class="btn btn2">📦 অর্ডার করুন</a>
+  </div>
+</section>
